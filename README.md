@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://tartarusai.dev/?utm_source=github&utm_medium=readme&utm_campaign=tartarus-cookbook&utm_content=banner">
+    <img src="assets/banner.svg" alt="tartarus-cookbook — Runnable recipes: Python, Node, curl" width="100%">
+  </a>
+</p>
+
 # tartarus-cookbook
 
 [![license](https://img.shields.io/badge/license-MIT-a3e635?style=flat-square)](#license)
@@ -11,7 +17,7 @@ OpenAI-compatible, so any OpenAI SDK works: just change the base URL.
 
 - Base URL: `https://api.tartarusai.dev/v1`
 - Model: `tartarus-coder`
-- Auth: a bearer token from [dash.tartarusai.dev](https://dash.tartarusai.dev)
+- Auth: a bearer token from [dash.tartarusai.dev](https://dash.tartarusai.dev/?utm_source=github&utm_medium=readme&utm_campaign=tartarus-cookbook&utm_content=body)
   (Account to CLI access to Generate)
 
 ## Setup
