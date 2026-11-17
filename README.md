@@ -1,7 +1,13 @@
 # tartarus-cookbook
 
+[![license](https://img.shields.io/badge/license-MIT-a3e635?style=flat-square)](#license)
+
 Runnable examples for the **Tartarus** uncensored coding API. The API is
 OpenAI-compatible, so any OpenAI SDK works: just change the base URL.
+
+> Prefer a typed client? See [tartarus-sdk](https://github.com/TartarusAIDev/tartarus-sdk)
+> (TypeScript) or drop it into Claude Desktop / Cursor with
+> [tartarus-mcp](https://github.com/TartarusAIDev/tartarus-mcp).
 
 - Base URL: `https://api.tartarusai.dev/v1`
 - Model: `tartarus-coder`
